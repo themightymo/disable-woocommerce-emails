@@ -7,6 +7,8 @@ Version:     1.0
 Author:      The Mighty Mo! Design Co.
 Author URI:  http://docs.woothemes.com/document/unhookremove-woocommerce-emails/
 Textdomain:  woocommerce-emails
+
+This plugin is inspired by http://docs.woothemes.com/document/unhookremove-woocommerce-emails/
 */
 
 add_action( 'woocommerce_email', 'unhook_those_pesky_emails' );
